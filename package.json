@@ -15,7 +15,7 @@
     "chimp-watch": "chimp --ddp=http://localhost:3000 --watch --mocha --path=tests"
   },
   "dependencies": {
-    "autoprefixer": "^6.3.6",
+    "autoprefixer": "^9.0.0",
     "faker": "^3.1.0"
   },
   "devDependencies": {
